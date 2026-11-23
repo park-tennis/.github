@@ -6,4 +6,6 @@ We make an independent guide to gear, brands, and the life around public tennis 
 
 Our editorial rubric looks at what each brand makes, how useful it is to players, and what it brings to court culture, so you can discover independent brands that fit the way you play.
 
+[Try the Brand Index rubric demo](https://park-tennis.github.io/brand-index-rubric-demo/)
+
 [Visit Park Tennis](https://parktennis.com/) · [Read Joshua Sigler’s case study](https://joshuasigler.com/work/park-tennis-brand-index/)
